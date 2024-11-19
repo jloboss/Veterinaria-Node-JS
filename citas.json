@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Baloo",
+    "edad": "1 año",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "resfriado"
+  },
+  {
+    "nombre": "Mateo",
+    "edad": "10 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "gingivitis"
+  },
+  {
+    "nombre": "Alondra",
+    "edad": "10 años",
+    "animal": "perra",
+    "color": "cafe",
+    "enfermedad": "destartraje"
+  }
+]
